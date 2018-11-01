@@ -1,1 +1,1 @@
-![Julia Fractal](JuliaFractal.png "Julia Fractal")
+![Julia Fractal](JuliaFractal.PNG "Julia Fractal")
